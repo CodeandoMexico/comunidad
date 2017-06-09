@@ -11,6 +11,23 @@
 
 
 ## Tabla de contenidos
+- [Sobre este repositorio](#sobre-este-repositorio)
+- [¿Qué es Codeando México?](#qué-es-codeando-méxico)
+- [¿Por qué estamos aquí?](#por-qué-estamos-aquí)
+- [¿En qué creemos?](#en-qué-creemos)
+- [Manifiesto](#manifiesto)
+- [¡Comienza a colaborar hoy!](#comienza-a-colaborar-hoy)
+- [Calendario](#calendario)
+- [Hoja de ruta](#hoja-de-ruta)
+- [Código de Conducta](#código-de-conducta)
+- [Gobernanza](#gobernanza)
+- [Glosario del Hacking Cívico](#glosario-del-hacking-cívico)
+- [Historias de la comunidad](#historias-de-la-comunidad)
+- [Aprende más sobre hacking cívico](#aprende-más-sobre-hacking-cívico)
+- [Swag](#swag)
+- [Redes sociales y otros canales digitales](#redes-sociales-y-otros-canales-digitales)
+- [Inspiración](#inspiración)
+
 
 ## Sobre este repositorio
 Queremos construir un movimiento de tecnología cívica en el país y que tú formes parte.
@@ -32,17 +49,17 @@ El **propósito de este repositorio** es proveer un centro de documentación par
 9. Redactar un **manifiesto** que refleje cómo la comunidad quiere cumplir con su propósito.
 10. Trazar colectivamente una **hoja de ruta** conjunta para la comunidad. 
 
-## ¿Qué es Codeando México?
+## Qué es Codeando México
 Codeando México somos una comunidad abierta y colaborativa que desarrolla tecnología para construir un mejor país.
 
-## ¿Por qué estamos aquí?
+## Por qué estamos aquí
 Queremos consolidar un movimiento de tecnología cívica en todo el país que impulse su desarrollo como un medio para:
 * Resolver problemas públicos y sociales por nuevos caminos. 
 * Facilitar nuevas formas de participación ciudadana
 * Reformular la relación entre gobiernos más abiertos y una ciudadanía más empoderada.
 
-## ¿En qué creemos?
-Los principales valores que nos atan como comunidad son:
+## En qué creemos
+Los principales valores que nos unen como comunidad son:
 1. **Apertura con propósito.** Abrimos código, datos y procesos para habilitar los cambios que buscamos. Queremos compartir e incorporar ideas distintas de cualquier persona que quiera integrarse. Practicamos la transparencia que exigimos.
 
 2. **Colaboración multidisciplinaria.** Reconocemos el valor que aporta cada persona y que la suma de visiones fortalece todo lo que hacemos. Promovemos el trabajo en equipo y un espíritu de cooperación en lo virtual y presencial. Buscamos oportunidades para agregar a comunidades, organizaciones e instituciones en procesos de desarrollo de herramientas que aumenten su potencial de transformación.
@@ -55,7 +72,10 @@ Los principales valores que nos atan como comunidad son:
 
 6. **Iteración colectiva.** Reconocemos el valor de abrir nuestros procesos a una mejora permanente. Queremos construir, probar y perfeccionar ideas en colectivo. Apostamos por crear experimentando y confiamos en que las ideas llegarán a su mejor resultado sumando pequeñas mejoras paulatinamente.
 
-## ¡Comienza a colaborar hoy!
+## Manifiesto
+*Manifiesto: Hackear una mejor ciudadanía*
+
+## Comienza a colaborar hoy
 ¿Quieres contribuir a proyectos o a los procesos internos de la comunidad de Codeando México? Este es un espacio abierto y tenemos un lugar para todas las personas. Empieza por aquí:
 
 * Revisa los proyectos activos y la Guía de Contribución. Busca issues etiquetadas con “busco-ayuda” e identifica el nivel de dificultad y tema que sean de tu interés. 
@@ -69,8 +89,6 @@ Los principales valores que nos atan como comunidad son:
 Como comunidad open source sabemos que hay siempre algo que mejorar y queremos que nos ayudes a hacerlo. Si crees que hay más formas de contribuir o tienes alguna sugerencia para estas guías, compártenos tus ideas en Issues de la Comunidad.
 
 ## Calendario
-
-## Manifiesto: Hackear una mejor ciudadanía
 
 ## Hoja de ruta
 
