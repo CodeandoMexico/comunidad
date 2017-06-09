@@ -80,7 +80,7 @@ Este manifiesto está en construcción por la comunidad de Codeando México.
 Sabemos en qué creemos y cuál es nuestro propósito. Ahora queremos construir un camino común para conseguirlo.
 
 ¡Únete al la redacción del manifiesto de Codeando México! Para participar puedes consultar:
-* Guía para el Manifiesto
+* [Guía para el Manifiesto][https://github.com/tugaarredondo/comunidad/blob/master/MANIFIESTO.md]
 * Discusiones abiertas (Próximamente)
 * Documento colaborativo (Próximamente)
 
