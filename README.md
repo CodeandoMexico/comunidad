@@ -75,6 +75,15 @@ Los principales valores que nos unen como comunidad son:
 ## Manifiesto
 *Manifiesto: Hackear una mejor ciudadanía*
 
+Este manifiesto está en construcción por la comunidad de Codeando México.
+
+Sabemos en qué creemos y cuál es nuestro propósito. Ahora queremos construir un camino común para conseguirlo.
+
+¡Únete al la redacción del manifiesto de Codeando México! Para participar puedes consultar:
+* Guía para el Manifiesto
+* Discusiones abiertas (Próximamente)
+* Documento colaborativo (Próximamente)
+
 ## Comienza a colaborar hoy
 ¿Quieres contribuir a proyectos o a los procesos internos de la comunidad de Codeando México? Este es un espacio abierto y tenemos un lugar para todas las personas. Empieza por aquí:
 
