@@ -87,15 +87,14 @@ Sabemos en qué creemos y cuál es nuestro propósito. Ahora queremos construir 
 ## Comienza a colaborar hoy
 ¿Quieres contribuir a proyectos o a los procesos internos de la comunidad de Codeando México? Este es un espacio abierto y tenemos un lugar para todas las personas. Empieza por aquí:
 
-* Revisa los proyectos activos y la Guía de Contribución. Busca issues etiquetadas con “busco-ayuda” e identifica el nivel de dificultad y tema que sean de tu interés. 
+* Revisa los proyectos activos y la [Guía de Contribución](https://github.com/CodeandoMexico/comunidad/blob/master/CONTRIBUYE.md). Busca issues etiquetadas con “busco-ayuda” e identifica el nivel de dificultad (“facil”, “díficil” y “hacker”) y tema que sean de tu interés. 
+* Busca la brigada de tu ciudad o forma una siguiendo el [Playbook de Brigadas](https://github.com/CodeandoMexico/comunidad/blob/master/playbooks/PLAYBOOK_BRIGADAS.md).
+* ¿Tienes alguna idea o propuesta? Compártela con la comunidad en el repo de [Ideas](https://github.com/CodeandoMexico/ideas). 
+* ¡Únete a la conversación en [Slack](http://slack.codeandomexico.org)!
+* ¿Tienes alguna sugerencia sobre cómo podría funcionar mejor la comunidad de Codeando México o las guías de este repositorio? Participa en la discusión en [Issues](https://github.com/CodeandoMexico/comunidad/issues) de este repo [con template]. 
+* ¿Quieres apoyar a la comunidad con una microdonación? Visita nuestro espacio permanente de crowdfunding en Open Collective (próximamente).
 
-* Busca la brigada de tu ciudad o forma una siguiendo el Playbook de Brigadas.
-* ¿Tienes alguna idea o propuesta? Compártela con la comunidad en el repo de Ideas. 
-* ¡Únete a la conversación en Slack!
-* ¿Tienes alguna sugerencia sobre cómo podría funcionar mejor la comunidad de Codeando México o las guías de este repositorio? Participa en la discusión en Issues de este repo [con template]. 
-* ¿Quieres apoyar a la comunidad con una microdonación? Visita nuestro espacio permanente de crowdfunding en Open Collective.
-
-Como comunidad open source sabemos que hay siempre algo que mejorar y queremos que nos ayudes a hacerlo. Si crees que hay más formas de contribuir o tienes alguna sugerencia para estas guías, compártenos tus ideas en Issues de la Comunidad.
+Como comunidad open source sabemos que hay siempre algo que mejorar y queremos que nos ayudes a hacerlo. Si crees que hay más formas de contribuir o tienes alguna sugerencia para estas guías, compártenos tus ideas en [Issues](https://github.com/CodeandoMexico/comunidad/issues) de la Comunidad.
 
 ## Calendario
 
