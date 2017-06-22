@@ -64,9 +64,9 @@ Los principales valores que nos unen como comunidad son:
 
 2. **Colaboración multidisciplinaria.** Reconocemos el valor que aporta cada persona y que la suma de visiones fortalece todo lo que hacemos. Promovemos el trabajo en equipo y un espíritu de cooperación en lo virtual y presencial. Buscamos oportunidades para agregar a comunidades, organizaciones e instituciones en procesos de desarrollo de herramientas que aumenten su potencial de transformación.
 
-3. **Construcción consciente/*proactiva*.** Buscamos contribuir con nuevas formas de abordar los problemas comunes fomentando y canalizando el pensamiento crítico hacia el del desarrollo de herramientas tecnológicas. Queremos habilitar transformaciones de fondo, no solucionismo. 
+3. **Construcción proactiva** Buscamos contribuir con nuevas formas de abordar los problemas comunes fomentando y canalizando el pensamiento crítico hacia el del desarrollo de herramientas tecnológicas. Queremos habilitar transformaciones de fondo, no solucionismo. 
 
-4. **Inclusión para la libre participación/*proactiva*.** Somos una comunidad que valora, respeta y buscar dar espacio a todas las voces. Queremos generar dentro y fuera de nuestra comunidad espacios que garanticen la participación libre de abuso/odio y discriminación, que reconozcan el valor de cada persona como una pieza fundamental.
+4. **Inclusión para la libre participación** Somos una comunidad que valora, respeta y buscar dar espacio a todas las voces. Queremos generar dentro y fuera de nuestra comunidad espacios que garanticen la participación libre de abuso/odio y discriminación, que reconozcan el valor de cada persona como una pieza fundamental.
 
 5. **Innovación para el empoderamiento/*de fondo/transformadora/sustancial*.** Buscamos formas creativas y colectivas de identificar soluciones que puedan detonar transformaciones de fondo. Queremos generar cambios sustanciales en los asuntos públicos y sociales a través de la tecnología y la colaboración que puedan empoderar de nuevas formas a la ciudadanía.
 
