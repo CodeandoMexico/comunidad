@@ -14,7 +14,7 @@
 - [Sobre este repositorio](#sobre-este-repositorio)
 - [¿Qué es Codeando México?](#qué-es-codeando-méxico)
 - [¿Por qué estamos aquí?](#por-qué-estamos-aquí)
-- [¿En qué creemos?](#en-qué-creemos)
+- [¿En qué creemos? (Nuestros valores)](#en-qué-creemos)
 - [Manifiesto](#manifiesto)
 - [¡Comienza a colaborar hoy!](#comienza-a-colaborar-hoy)
 - [Calendario](#calendario)
@@ -58,7 +58,7 @@ Queremos consolidar un movimiento de tecnología cívica en todo el país que im
 * Facilitar nuevas formas de participación ciudadana
 * Reformular la relación entre gobiernos más abiertos y una ciudadanía más empoderada.
 
-## En qué creemos
+## En qué creemos (Nuestros valores)
 Los principales valores que nos unen como comunidad son:
 1. **Apertura con propósito.** Abrimos código, datos y procesos para habilitar los cambios que buscamos. Queremos compartir e incorporar ideas distintas de cualquier persona que quiera integrarse. Practicamos la transparencia que exigimos.
 
