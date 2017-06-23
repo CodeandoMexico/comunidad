@@ -7,7 +7,7 @@ Puedes revisarlo en: https://github.com/CodeandoMexico/comunidad/blob/master/C%C
 
 -->
 
-### Prerequisites
+### ¿Cómo funciona ahora la comunidad de Codeando México? Consulta nuestros documentos:
 
 Pon una X entre los corchetes si has hecho lo siguiente:
 * [ ] He leído y suscribo el Código de Conducta de la comunidad.
