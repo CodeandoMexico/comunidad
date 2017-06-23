@@ -9,10 +9,11 @@ Puedes revisarlo en: https://github.com/CodeandoMexico/comunidad/blob/master/C%C
 
 ### Prerequisites
 
-* [ ] Pon una X entre los corchetes si has hecho lo siguiente:
-    * He leído y suscribo el Código de Conducta de la comunidad.
-    * He leído la Guía de Contribución
-    * He leído documentos escenciales sobre el propósito de Codeando México como el Manifiesto, Governanza y la misión y valores contenidos en el README.
+Pon una X entre los corchetes si has hecho lo siguiente:
+* [ ] He leído y suscribo el Código de Conducta de la comunidad.
+* [ ] He leído la Guía de Contribución
+* [ ] He leído documentos escenciales sobre el propósito de Codeando México como el Manifiesto, Governanza y la misión y valores contenidos en el README.
+
 
 ### Descripción
 
