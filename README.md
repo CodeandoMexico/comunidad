@@ -72,8 +72,6 @@ Los principales valores que nos unen como comunidad son:
 6. **Iteración colectiva.** Reconocemos el valor de abrir nuestros procesos a una mejora permanente. Queremos construir, probar y perfeccionar ideas en colectivo. Apostamos por crear experimentando y confiamos en que las ideas llegarán a su mejor resultado sumando pequeñas mejoras paulatinamente.
 
 ## Manifiesto
-*Manifiesto: Hackear una mejor ciudadanía*
-
 Este manifiesto está en construcción por la comunidad de Codeando México.
 
 Sabemos en qué creemos y cuál es nuestro propósito. Ahora queremos construir un camino común para conseguirlo.
@@ -96,6 +94,8 @@ Sabemos en qué creemos y cuál es nuestro propósito. Ahora queremos construir 
 Como comunidad open source sabemos que hay siempre algo que mejorar y queremos que nos ayudes a hacerlo. Si crees que hay más formas de contribuir o tienes alguna sugerencia para estas guías, compártenos tus ideas en [Issues](https://github.com/CodeandoMexico/comunidad/issues) de la Comunidad.
 
 ## Calendario
+
+Consulta los eventos de la comunidad en nuestro [calendario público](https://calendar.google.com/calendar/embed?src=codeandomexico.org_sdbju8vifhaele5c14tfe44ifg%40group.calendar.google.com&ctz=America/Mexico_City)
 
 ## Código de conducta
 
