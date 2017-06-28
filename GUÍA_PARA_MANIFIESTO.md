@@ -24,5 +24,5 @@ Ahora queremos tomar algunas de las ideas que surgieron en esta consulta y deton
 2. Haz sugerencias y comentarios sobre el documento colaborativo (*próximamente*)
 3. Firma con un fork el manifiesto de Codeando México (*próximamente*)
 
-*Este es un documento viviente. Si quieres sugerir algún cambio, puedes proponerlo primero en [Issues](https://github.com/CodeandoMexico/comunidad/issues) de este repositorio de comunidad y mandarnos un [pull request](https://github.com/CodeandoMexico/comunidad/pulls) después de haberlo discutido con la comunidad.
+*Este manifiesto será un documento viviente. Si quieres sugerir algún cambio una vez redactado, puedes proponerlo primero en [Issues](https://github.com/CodeandoMexico/comunidad/issues) de este repositorio de comunidad y mandarnos un [pull request](https://github.com/CodeandoMexico/comunidad/pulls) después de haberlo discutido con la comunidad.
 
