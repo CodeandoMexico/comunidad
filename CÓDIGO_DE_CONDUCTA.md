@@ -1,7 +1,7 @@
 # Nuestro Código de Conducta #
 2017-06-28
 
-La comunidad de Codeando México se compromete a que todas sus actividades, eventos y foros digitales:
+La comunidad de Codeando México se **compromete** a que todas sus **actividades, eventos y foros digitales**:
 
 1. Sean espacios seguros, amigables y respetuosos para todas las personas que participen.
 
@@ -19,9 +19,9 @@ La comunidad de Codeando México se compromete a que todas sus actividades, even
 
 Cualquier integrante de esta comunidad se reserva el derecho de pedir a personas que vayan en contra de estas normas a no participar en actividades, eventos y foros digitales de la comunidad. 
 
-Codeando México es una organización apartidista y no se le debe asociar con algún extremo ideológico o partido político.
+Codeando México es una organización **apartidista** y no se le debe asociar con algún extremo ideológico o partido político.
 
-Codeando México construye herramientas de software libre, ningún contribuidor que haya participado en algún proyecto puede asumir la propiedad del resultado final. 
+Codeando México construye herramientas de **software libre**, ningún contribuidor que haya participado en algún proyecto puede asumir la propiedad del resultado final. 
 
 Este documento está basado en el código de conducta de la red [Code for All](https://codeforall.org/2017/04/01/code-of-conduct/).
 
