@@ -84,7 +84,7 @@ Sabemos en qué creemos y cuál es nuestro propósito. Ahora queremos construir 
 ## Comienza a colaborar hoy
 ¿Quieres contribuir a proyectos o a los procesos internos de la comunidad de Codeando México? Este es un espacio abierto y tenemos un lugar para todas las personas. Empieza por aquí:
 
-* Revisa los proyectos activos y la [Guía de Contribución](https://github.com/CodeandoMexico/comunidad/blob/master/CONTRIBUYE.md). Busca issues etiquetadas con “busco-ayuda” e identifica el nivel de dificultad (“facil”, “díficil” y “hacker”) y tema que sean de tu interés. 
+* Revisa los [proyectos activos](https://docs.google.com/spreadsheets/d/1svjjBG8VWr9hl6-pKLxG57Yq7_6q4JPW5PENNTlZWrs/edit?usp=sharing) y la [Guía de Contribución](https://github.com/CodeandoMexico/comunidad/blob/master/CONTRIBUYE.md). Busca issues etiquetadas con “busco-ayuda” e identifica el nivel de dificultad (“facil”, “díficil” y “hacker”) y tema que sean de tu interés. 
 * Busca la brigada de tu ciudad o forma una siguiendo el [Playbook de Brigadas](https://github.com/CodeandoMexico/comunidad/blob/master/playbooks/PLAYBOOK_BRIGADAS.md).
 * ¿Tienes alguna idea o propuesta? Compártela con la comunidad en el repo de [Ideas](https://github.com/CodeandoMexico/ideas). 
 * ¡Únete a la conversación en [Slack](http://slack.codeandomexico.org)!
@@ -98,11 +98,15 @@ Como comunidad open source sabemos que hay siempre algo que mejorar y queremos q
 Consulta los eventos de la comunidad en nuestro [calendario público](https://calendar.google.com/calendar/embed?src=codeandomexico.org_sdbju8vifhaele5c14tfe44ifg%40group.calendar.google.com&ctz=America/Mexico_City)
 
 ## Código de conducta
+La comunidad de Codeando México se compromete a que todas sus actividades, eventos y foros digitales sean espacios respetuosos, incluyentes y que reconozcan el valor de todas las personas.
+
+Seamos excelentes en todo momento y aprovechemos la diversidad de opiniones que podamos tener para seguir creciendo nuestra comunidad. 
+
+Puedes consultar la versión completa de nuestro [Código de Conducta aquí](https://github.com/CodeandoMexico/comunidad/blob/master/C%C3%93DIGO_DE_CONDUCTA.md).
 
 ## Gobernanza
 
 ## Glosario del Hacking Cívico
-
 ¿A qué nos referimos cuando hablamos de *hacking cívico*?, ¿qué entendemos como comunidad por *hacker*?, ¿qué son los *datos abiertos*?, ¿a qué llamamos *tecnología cívica*? Si quieres leer más sobre los conceptos principales, en palabras de la comunidad, a partir de los que construimos y colaboramos puedes revisar el [Glosario del Hacking Cívico](https://github.com/CodeandoMexico/comunidad/blob/master/GLOSARIO.md).
 
 Si quieres agregar o modificar alguna de estas definiciones puedes poner tu propuesta a discusión en  [Issues](https://github.com/CodeandoMexico/comunidad/issues)
