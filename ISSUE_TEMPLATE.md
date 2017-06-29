@@ -7,7 +7,7 @@ Puedes revisarlo en: https://github.com/CodeandoMexico/comunidad/blob/master/C%C
 
 -->
 
-### ¿Cómo funciona ahora la comunidad de Codeando México? Consulta nuestros documentos:
+### ¿Cómo funciona hoy la comunidad de Codeando México? Consulta nuestros documentos:
 
 Pon una X entre los corchetes si has hecho lo siguiente:
 * [ ] He leído y suscribo el Código de Conducta de la comunidad.
@@ -17,11 +17,11 @@ Pon una X entre los corchetes si has hecho lo siguiente:
 
 ### Descripción
 
-[Descripción del problema o necesidad que has identificado para la comunidad]
+[Descripción del problema o necesidad que has identificado para la comunidad o en esta documentación]
 
 ### Propuesta
 
-[¿Qué propones que la comundiad de Codeando México haga de una manera distinta?]
+[¿Qué propones que la comunidad de Codeando México haga de una manera distinta?, ¿qué cambio sugieres a esta documentación?]
 
 ### Impacto
 
