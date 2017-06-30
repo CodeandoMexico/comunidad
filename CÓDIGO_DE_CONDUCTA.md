@@ -16,7 +16,7 @@ La comunidad de Codeando México se **compromete** a que todas sus **actividades
 11. Aseguren que las relaciones, interacciones y conversaciones entre miembros de la comunidad, funcionarios de gobiernos locales y aliados de la comunidad procuren el respeto, la participación y la productividad.
 12. Provean un ambiente libre de discriminación y acoso.
 
-Cualquier integrante de esta comunidad se reserva el derecho de pedir a personas que vayan en contra de estas normas a no participar en actividades, eventos y foros digitales de la comunidad. 
+Cualquier integrante de esta comunidad se reserva el derecho de pedir a personas que vayan en contra de estas normas a no participar en actividades, eventos y foros digitales de la comunidad. Puedes **reportar** cualquier violación a este Código de Conducta enviando un correo a equipo@codeandomexico.org explicando el caso, dando el mayor contexto posible, para permitir al equipo tener una mejor y más clara respuesta.
 
 Codeando México es una organización **apartidista** y no se le debe asociar con algún extremo ideológico o partido político.
 
