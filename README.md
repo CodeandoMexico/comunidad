@@ -59,7 +59,7 @@ Queremos consolidar un movimiento de tecnología cívica en todo el país que im
 
 ## En qué creemos
 Los principales valores que nos unen como comunidad son:
-1. **Apertura con propósito.** Abrimos código, datos y procesos para habilitar los cambios que buscamos. Queremos compartir e incorporar ideas distintas de cualquier persona que quiera integrarse. Practicamos la transparencia que exigimos.
+1. **Apertura con propósito.** Abrimos código, datos y procesos para habilitar los cambios que buscamos. Queremos compartir e incorporar ideas distintas de cualquier persona que quiera integrarse. Practicamos la transparencia que exigimos y la entendemos como una herramienta para habilitar las acciones de otras personas.
 
 2. **Colaboración multidisciplinaria.** Reconocemos el valor que aporta cada persona y que la suma de visiones fortalece todo lo que hacemos. Promovemos el trabajo en equipo y un espíritu de cooperación en lo virtual y presencial. Buscamos oportunidades para agregar a comunidades, organizaciones e instituciones en procesos de desarrollo de herramientas que aumenten su potencial de transformación.
 
