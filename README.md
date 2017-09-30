@@ -102,7 +102,7 @@ La comunidad de Codeando México se compromete a que todas sus actividades, even
 
 Seamos excelentes en todo momento y aprovechemos la diversidad de opiniones que podamos tener para seguir creciendo nuestra comunidad. 
 
-Puedes consultar la versión completa de nuestro [Código de Conducta aquí](https://github.com/CodeandoMexico/comunidad/blob/master/C%C3%93DIGO_DE_CONDUCTA.md).
+Puedes consultar la versión completa de nuestro [Código de Conducta aquí](https://github.com/CodeandoMexico/comunidad/blob/master/CODIGO-DE-CONDUCTA.md).
 
 ## Gobernanza
 
