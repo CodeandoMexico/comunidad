@@ -1,4 +1,4 @@
-# Un manifiesto para Codeando México... #
+# Un manifiesto para Codeando México...
 
 Estamos aquí porque creemos que la tecnología puede brindar nuevos caminos para construir mejores sociedades y gobiernos. Sin embargo, algunas **preguntas quedan pendientes por resolver** como comunidad:
 
@@ -10,7 +10,8 @@ Estamos aquí porque creemos que la tecnología puede brindar nuevos caminos par
 
 Este manifiesto nos ayudará a responder en conjunto muchas de estas preguntas, reforzar nuestro propósito como comunidad y encontrar los caminos que queremos seguir para conseguirlo.
 
-## ¿Por dónde empezamos? ##
+
+## ¿Por dónde empezamos?
 
 En abril de 2017 se generó una [Consulta de Identidad](https://docs.google.com/forms/d/e/1FAIpQLScVHT_dLNMPMZ-ffVrLL6D4sLxRFmKLvwiace84wZGl4O4sbA/viewform?c=0&w=1) al interior de la comunidad, donde ratificamos algunas definiciones sobre propósito y valores que han marcado el trabajo de Codeando México y abrimos espacios para que cada persona pudiera compartir ideas clave de forma anónima e individual. Puedes consultar un resumen de sus [resultados aquí](https://docs.google.com/presentation/d/1crM0dmGjXLczvbpZvvrkc4s7WPLSskCj3OiLivdRqhM/edit#slide=id.g21c662b33a_0_30).
 
@@ -18,11 +19,11 @@ A partir de este ejercicio pudimos consolidar nuestra [misión, propósito y val
 
 Ahora queremos tomar algunas de las ideas que surgieron en esta consulta y detonar la *discusión colectiva para la redacción de este manifiesto*.
 
-## ¡Participa en la redacción del Manifiesto! ##
+
+## ¡Participa en la redacción del Manifiesto!
 
 1. Entra las discusiones en pol.is (*próximamente*)
 2. Haz sugerencias y comentarios sobre el documento colaborativo (*próximamente*)
 3. Firma con un fork el manifiesto de Codeando México (*próximamente*)
 
 *Este manifiesto será un documento viviente. Si quieres sugerir algún cambio una vez redactado, puedes proponerlo primero en [Issues](https://github.com/CodeandoMexico/comunidad/issues) de este repositorio de comunidad y mandarnos un [pull request](https://github.com/CodeandoMexico/comunidad/pulls) después de haberlo discutido con la comunidad.
-

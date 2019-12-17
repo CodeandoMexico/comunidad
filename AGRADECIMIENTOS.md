@@ -2,7 +2,7 @@
 
 Esta comunidad se sostiene por personas que creen en el potencial de la tecnología para el bien de nuestras sociedades.
 
-Hoy y siempre, esta comunidad quiere agradecerles
+Hoy y siempre, esta comunidad quiere agradecerles.
 
 ## ¡Gracias por codear! 👾
 [Lista de top code contributors]
