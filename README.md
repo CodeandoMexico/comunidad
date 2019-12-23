@@ -1,10 +1,9 @@
 <p align="center">
-<img src="http://codeandomexico.org/resources/img/codeandomexico.png" width="500" title="logo_codeando 1 -500">
+<img src="http://codeandomexico.org/resources/img/codeandomexico.png" width="500" alt="Codeando México"><br>
+<a href="http://www.codeandomexico.org/" target="_blank"><img src="https://img.shields.io/badge/website-CodeandoMexico-00D88E.svg"></a>
+<a href="http://slack.codeandomexico.org/" target="_blank"><img src="https://img.shields.io/badge/slack-CodeandoMexico-EC0E4F.svg"></a>
 </p>
-
-[![website](https://img.shields.io/badge/website-CodeandoMexico-00D88E.svg)](http://www.codeandomexico.org/)
-[![slack](https://img.shields.io/badge/slack-CodeandoMexico-EC0E4F.svg)](http://slack.codeandomexico.org/)
-
+<!-- __ -->
 
 # Comunidad Codeando México
 
@@ -91,13 +90,13 @@ Los principales valores que nos unen como comunidad son:
 
 La estructura de Codeando México está conformada por distintos roles acorde al nivel de participación dentro de la organización:
 
-**Miembro de comunidad.**
-  - Slack member
-  - Project member
+**Miembro de comunidad.** La comunidad está compuesta por las personas con distintos perfiles técnicos y no técnicos que se encuentran *participando activamente* a través de los distintos canales de comunicación (como Slack) o en los proyectos de Codeando México. Cada miembro se caracteriza por seguir la filosofía de Codeando México, así como su código de conducta para poder actuar, ser partícipe y contribuir a la organización a través de su comunidad y los proyectos de comunidad.
 
-**Consejo de comunidad.**
+**Miebro de brigada.** Los miembros de una brigada, además de ser miembros de comunidad y cumplir con las características de un miembro de comunidad, forman parte de un grupo activo y geolocalizado en una región del país que ejecuta distintas actividades (como las [Civic Hack Nights](https://medium.com/codeandomexico/organiza-una-hack-night-en-tu-ciudad-9d81985ed14a)) para la comunidad de dicha región y sus alrededores.
 
-**Core-team.**
+**Consejo de Comunidad.** El Consejo de Comunidad está conformado por miembros que, además de formar parte de la comunidad de Codeando México, pueden o no formar parte de una brigada. El Consejo de Comunidad está compuesto por 5 personas de diversos perfiles, y dichas personas formarán parte activa del consejo durante tres meses (que en procesos iterativos, tendrán a bien proponer a los miembros de la comunidad que conformarán al Consejo de Comunidad durante la siguiente iteración). El rol principal del Consejo de Comunidad y de sus miembros será proponer la guía y brindar apoyo para la comunidad en sus actividades, estructura y en general el rumbo que se considere pertinente para la misma; por lo que tendrá reuniones periódicas con el *core-team* para presentar las resoluciones al respecto.
+
+**Core-team.** El equipo núcleo de Codeando México está formado por los miembros encargados de articular la ejecución de las actividades que suceden en Codeando México y en su comunidad, son tomadores de decisiones para el bien de la organización y tienen a bien el reunirse con el Consejo de Comunidad para permear las decisiones que guíen a un mejor rumbo a la comunidad.
 
 **Board of advisors.**
 
@@ -120,8 +119,7 @@ Sabemos en qué creemos y cuál es nuestro propósito. Ahora queremos construir 
 ¿Quieres contribuir a proyectos o a los procesos internos de la comunidad de Codeando México? Este es un espacio abierto y tenemos un lugar para todas las personas. Empieza por aquí:
 
 * Revisa los [proyectos activos](https://docs.google.com/spreadsheets/d/1svjjBG8VWr9hl6-pKLxG57Yq7_6q4JPW5PENNTlZWrs/edit?usp=sharing) y la [Guía de Contribución](https://github.com/CodeandoMexico/comunidad/blob/master/CONTRIBUYE.md). Busca issues etiquetadas con “busco-ayuda” e identifica el nivel de dificultad (“facil”, “díficil” y “hacker”) y tema que sean de tu interés.
-* Busca la brigada de tu ciudad o [forma una](http://codeandomexico.org/).
-<!-- siguiendo el [Playbook de Brigadas](https://github.com/CodeandoMexico/comunidad/blob/master/playbooks/PLAYBOOK_BRIGADAS.md). -->
+* Busca la brigada de tu ciudad o crea una siguiendo el [Playbook de Brigadas](https://github.com/CodeandoMexico/comunidad/blob/master/playbooks/PLAYBOOK_BRIGADAS.md) (_próximamente_).
 * ¡Únete a la conversación en [Slack](http://slack.codeandomexico.org)!
 * ¿Tienes alguna idea o propuesta? Compártela con la comunidad a través de [nuestro Slack](http://slack.codeandomexico.org).
 <!-- o en el repo de [Ideas](https://github.com/CodeandoMexico/ideas). -->
@@ -133,7 +131,7 @@ Como comunidad open source sabemos que hay siempre algo que mejorar y queremos q
 
 ## Calendario
 
-Consulta los eventos de la comunidad en nuestro [calendario público](https://calendar.google.com/calendar/embed?src=codeandomexico.org_sdbju8vifhaele5c14tfe44ifg%40group.calendar.google.com&ctz=America/Mexico_City)
+Consulta los eventos de la comunidad en nuestro [calendario público](https://calendar.google.com/calendar/embed?src=codeandomexico.org_sdbju8vifhaele5c14tfe44ifg%40group.calendar.google.com&ctz=America/Mexico_City).
 
 
 ## Código de conducta
