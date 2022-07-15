@@ -7,89 +7,35 @@
 
 # Comunidad Codeando México
 
-¡Empieza aquí! Documentación y discusión general sobre principios, prácticas y guías de colaboración para la comunidad de Codeando México.
+¡Empieza aquí! Este repositorio contiene la documentación y guía de contribución para los proyectos de la comunidad de Codeando México.
 
-
-## Tabla de contenidos
-
-- [Sobre este repositorio](#sobre-este-repositorio)
-- [¿Qué es Codeando México?](#qué-es-codeando-méxico)
-- [¿En qué creemos? (Nuestros valores)](#en-qué-creemos)
-- [Estructura](#estructura)
-- [¡Comienza a colaborar hoy!](#comienza-a-colaborar-hoy)
-- [Código de Conducta](#código-de-conducta)
-- [Glosario del Hacking Cívico](#glosario-del-hacking-cívico)
-- [Historias de la comunidad](#historias-de-la-comunidad)
-- [Redes sociales y otros canales digitales](#redes-sociales-y-otros-canales-digitales)
-- [Inspiración](#inspiración)
-
-
-## Sobre este repositorio
-
-Trabajamos con datos y tecnología para resolver problemas públicos de manera abierta, cualquiera puede participar en los proyectos abiertos. Este es un espacio de bienvenida y (meta)discusión sobre temas de la comunidad de Codeando México.
-
-Si quieres saber más o hacer sugerencias sobre los principios, el propósito, las formas para proponer y contribuir a proyectos, metodologías de colaboración y cómo nos organizamos en la comunidad de Codeando México estás en el lugar indicado.
-
-El **propósito de este repositorio** es proveer un centro de documentación para la comunidad y generar guías:
-
-1. Definir los **principios y el propósito** de la comunidad de Codeando México.
-2. Identificar **agendas comunes**.
-3. Establecer un **código de conducta** para la comunidad.
-4. Facilitar **guías de contribución** para que cualquier persona pueda sumarse, colaborar y proponer mejoras.
-5. Habilitar espacios de **discusión sobre la comunidad**.
-6. Apuntar hacia los **canales digitales** que utiliza la comunidad.
-7. Documentar **conocimiento, prácticas comunes y decisiones importantes** de la comunidad.
-8. Contar las **historias de Codeando México** y sus cambios en el tiempo.
-9. Redactar un **manifiesto** que refleje cómo la comunidad quiere cumplir con su propósito.
-10. Trazar colectivamente una **hoja de ruta** conjunta para la comunidad.
-
-
-## ¿Qué es Codeando México?
+## Sobre Codeando México
 
 Codeando México es una comunidad abierta que desarrolla tecnología para el bien común. Construimos herramientas digitales, abrimos conocimiento y acompañamos equipos trabajando en lo público para aprovechar de manera estratégica y sustentable tecnología y datos en la resolución de problemas públicos.
 
-Colaboramos con personas de todos los perfiles: activistas, periodistas, funcionarias públicas, diseñadoras, desarrolladoras. Cualquiera que comparta nuestros principios, valores y código de conducta puede ser parte de esta comunidad.
+Colaboramos con personas de todos los perfiles: activistas, periodistas, funcionarias públicas, diseñadoras, desarrolladoras. Cualquiera que comparta nuestros principios, valores y código de conducta puede ser parte de esta comunidad de _Hackers Cívicos_.
 
+## Comienza a colaborar
 
-## ¿En qué creemos?
+¿Quieres contribuir a proyectos o a los procesos de la comunidad? Este es un espacio abierto y tenemos un lugar para todas las personas. Empieza por aquí:
 
-Los principales valores que nos unen como comunidad son:
+- ¡Únete a la conversación en [Slack](http://slack.codeandomexico.org)! Ahí podrás conectar con más personas.
+- Aprende y entérate sobre todo lo que estamos haciendo en nuestra [plataforma de Hackers Cívicos](http://hackerscivicos.org).
+- Revisa la [sección de contribución](#contribuye-a-un-proyecto) para participar en algún proyecto o ser voluntario.
+- Organiza un Civic Hack Night o una “Activación Cívica”.
+- ¿Tienes alguna otra idea o propuesta? Compártela con la comunidad a través de Slack o puedes mandarnos un correo a [equipo@codeandomexico.org](mailto:equipo@codeandomexico.org).
 
-1. **Apertura.** Abrimos código, datos y procesos para habilitar los cambios que buscamos.
+Como comunidad open source sabemos que hay siempre algo que mejorar y queremos que nos ayudes a hacerlo. Si crees que hay más formas de contribuir o tienes alguna sugerencia para estas guías, compártenos tus ideas en los [Issues](https://github.com/CodeandoMexico/comunidad/issues) de este repositorio.
 
-2. **Colaboración.** Reconocemos el valor que aporta cada persona, organización e institución y que la suma de visiones e ideas fortalece todo lo que hacemos.
+## Contribuye a un proyecto
+Todos nuestros proyectos son open source, esto significa que cualquiera es libre de utilizar el código, datos y otros materiales de acuerdo a la licencia que contenga. Si te interesa contribuir a un proyecto sigue estos pasos:
 
-3. **Construir con intención.** Buscamos formas creativas y colectivas de abordar los problemas comunes fomentando el pensamiento crítico hacia el desarrollo de herramientas tecnológicas. Queremos habilitar transformaciones de fondo, no solucionismo.
+1. Revisa la [lista de proyectos abiertos](#), cada proyecto cuenta con su propio repositorio de código.
+2. Dentro del repositorio encontrás un README que describe el proyecto, las tecnologías que se utilizan y una guía de contribución (solemos utilizar [GitHub flow](https://docs.github.com/es/get-started/quickstart/github-flow)).
+3. En la sección de _issues_ podrás encontrar algunas tareas con las que puedes ayudar o siempre puedes proponer una mejora, corrección o nueva funcionalidad.
+4. Adicionalmente puede que varios proyectos contengan una ruta de trabajo (ROADMAP.md) o un [tablero del proyecto](https://docs.github.com/es/issues/organizing-your-work-with-project-boards/managing-project-boards/about-project-boards) con los hitos del proyecto.
 
-4. **Inclusión.** Somos una comunidad que valora, respeta y busca dar espacio a todas las voces. Queremos generar dentro y fuera de nuestra comunidad espacios que garanticen la participación libre de abuso/odio y discriminación, que reconozcan el valor de cada persona como una pieza fundamental.
-
-5. **Iteración.** Reconocemos el valor de abrir nuestros procesos a una mejora permanente. Queremos construir, probar y perfeccionar ideas en colectivo. Apostamos por crear experimentando y confiamos en que las ideas llegarán a su mejor resultado sumando pequeñas mejoras paulatinamente.
-
-6. **Comunidad.** Ampliar el espacio cívico y crear un movimiento de tecnología y datos abiertos en el país.
-
-
-## Estructura
-
-La estructura de Codeando México está conformada por distintos roles acorde al nivel de participación dentro de la organización:
-
-👥 **Miembro de comunidad.** La comunidad se compone por personas de distintos perfiles técnicos y no técnicos que nos encontramos participando activamente a través de los distintos canales de comunicación (como Slack) o en los proyectos de Codeando México. Como miembros, nos caracterizamos por  compartir la filosofía de apertura y empoderamiento ciudadano,  así como nuestro código de conducta para actuar, ser partícipes y contribuir.
-
-💖 **Voluntarias/ Colaboradoras.** Los voluntarios y colaboradores, además de ser miembros de la comunidad, formamos parte de un grupo de personas que contribuyen activamente a los proyectos u organizan actividades comunitarias. Como colaboradores, ejecutamos distintas actividades, como por ejemplo las [Civic Hack Nights](https://medium.com/codeandomexico/organiza-una-hack-night-en-tu-ciudad-9d81985ed14a), por y para la comunidad.
-
-⚙️ **Core-team.** Es el equipo núcleo de Codeando México, aquel que está formado por los miembros encargados de articular y ejecutar las actividades que suceden en la organización. Este equipo actúa como tomador de decisiones que guíen a la comunidad en su proceso de evolución y crecimiento.
-
-
-## Comienza a colaborar hoy
-
-¿Quieres contribuir a proyectos o a los procesos internos de la comunidad de Codeando México? Este es un espacio abierto y tenemos un lugar para todas las personas. Empieza por aquí:
-
-- ¡Únete a la conversación en [Slack](http://slack.codeandomexico.org)!
-- ¿Tienes alguna idea o propuesta? Compártela con la comunidad a través de [nuestro Slack](http://slack.codeandomexico.org).
-- ¿Quieres participar en algún proyecto o ser voluntario? Llena [este formulario](https://docs.google.com/forms/d/1sPqdhT_scJr3PDSpzL_UJGi2joS5v3V2hw0sGdzR-k4/viewform?edit_requested=true).
-- ¿Tienes alguna sugerencia sobre cómo podría funcionar mejor la comunidad de Codeando México o las guías de este repositorio? Participa en la discusión en [Issues](https://github.com/CodeandoMexico/comunidad/issues) de este repositorio.
-
-Como comunidad open source sabemos que hay siempre algo que mejorar y queremos que nos ayudes a hacerlo. Si crees que hay más formas de contribuir o tienes alguna sugerencia para estas guías, compártenos tus ideas en [Issues](https://github.com/CodeandoMexico/comunidad/issues) de la Comunidad.
-
+Nuestro objetivo siempre es trabajar de la manera más transparente y colaborativa posible, siempre estamos abiertos a contribuciones de todo tipo. Puedes ayudar a mejorar la documentación, el código, la implementación o gestión de un proyecto.
 
 ## Código de conducta
 
@@ -99,42 +45,34 @@ Seamos excelentes en todo momento y aprovechemos la diversidad de opiniones que 
 
 Puedes consultar la versión completa de nuestro [Código de Conducta aquí](https://github.com/CodeandoMexico/comunidad/blob/master/CODIGO-DE-CONDUCTA.md).
 
+## Recursos de comunidad
 
-## Glosario del Hacking Cívico
+### Documentos internos
 
-¿A qué nos referimos cuando hablamos de *hacking* cívico?, ¿qué entendemos como comunidad por *hacker*?, ¿qué son los datos abiertos?, ¿a qué llamamos tecnología cívica? Si quieres leer más sobre los conceptos principales, en palabras de la comunidad, a partir de los que construimos y colaboramos puedes revisar el [Glosario del Hacking Cívico](https://github.com/CodeandoMexico/comunidad/blob/master/GLOSARIO.md).
+- [Valores y principios]()
+- [Plantilla de proyectos](https://github.com/CodeandoMexico/plantilla-proyectos)
+- [Aviso de privacidad]()
 
-Si quieres agregar o modificar alguna de estas definiciones puedes poner tu propuesta a discusión en  [Issues](https://github.com/CodeandoMexico/comunidad/issues)
+### De la comunidad
+
+- [Historias de comunidad](https://medium.com/codeandomexico)
+- [Glosario de Hacking Cívico](https://github.com/CodeandoMexico/comunidad/blob/master/GLOSARIO.md)
+- [Awesome Civic Tech](https://awesome-civic-tech.codeandomexico.org/)
+- [Awesome Open Data](http://github.codeandomexico.org/awesome-open-data/)
 
 
-## Historias de la comunidad
+### Conocimiento general
 
-Para conocer las historias de la comunidad y todo lo que con dedicación y colaboración se ha logrado, te invitamos a leer el [blog en Medium](https://medium.com/codeandomexico/tagged/comunidad-codeando).
+- [Lista de lecturas recomendadas](https://docs.google.com/document/d/1wSjsJUe4E-qxBZUHzBtHmWeuxfykQewm7Mhnikiow-c/edit?usp=sharing)
+- [Organizaciones que hacen cosas chidas](https://docs.google.com/document/d/1yqTQ-1jtbXeoYgnjLePeuHP8L1lMb7N43b94lhuxdOk/edit?usp=sharing)
 
 
-## Redes sociales y otros canales digitales
-
-### Comunidad Codeando México
+## Redes sociales y otros canales
 
  - [Slack](http://slack.codeandomexico.org/)
  - [Facebook](https://www.facebook.com/CodeandoMexico/)
  - [Twitter](https://twitter.com/codeandomexico)
  - [Blog en Medium](https://medium.com/codeandomexico/)
-
-
-### Brigadas anteriores
-
-Anteriormente trabajamos bajo un modelo de comunidad basado en brigadas geolocalizadas en distintas ciudades del país, ahora operamos bajo una sola comunidad nacional de manera virtual.
-
- - [Codeando Monterrey](https://codeandomonterrey.github.io/) &nbsp; <a href="https://www.facebook.com/CodeandoMonterrey/" tragte="_blank"><img src="https://emojis.slackmojis.com/emojis/images/1450319443/34/facebook.png" width="15px"></a> <a href="https://twitter.com/CodeandoMTY" target="_blank"><img src="https://emojis.slackmojis.com/emojis/images/1450319443/35/twitter.png" width="15px"></a>
- - [Codeando Xalapa](https://github.com/codeandoxalapa/) &nbsp; <a href="https://www.facebook.com/CodeandoXalapa/" target="_blank"><img src="https://emojis.slackmojis.com/emojis/images/1450319443/34/facebook.png" width="15px"></a> <a href="https://twitter.com/codeandoxalapa" target="_blank"><img src="https://emojis.slackmojis.com/emojis/images/1450319443/35/twitter.png" width="15px"></a>
- - [Codeando Villahermosa](https://github.com/CodeandoVillahermosa) &nbsp; <a href="https://www.facebook.com/CodeandoVillahermosa/" tragte="_blank"><img src="https://emojis.slackmojis.com/emojis/images/1450319443/34/facebook.png" width="15px"></a> <a href="https://twitter.com/codeandovhsa" target="_blank"><img src="https://emojis.slackmojis.com/emojis/images/1450319443/35/twitter.png" width="15px"></a>
- - [Codeando Guadalajara](https://codeandoguadalajara.github.io/) &nbsp; <a href="https://www.facebook.com/CodeandoGuadalajara/" target="_blank"><img src="https://emojis.slackmojis.com/emojis/images/1450319443/34/facebook.png" width="15px"></a> <a href="https://twitter.com/CodeandoGDL" target="_blank"><img src="https://emojis.slackmojis.com/emojis/images/1450319443/35/twitter.png" width="15px"></a>
- - [Codeando DF](https://www.facebook.com/codeandodf/)
- - [Codeando Puebla](https://www.facebook.com/codeandopuebla)
- - [Codeando Aguascalientes](https://www.facebook.com/CodeandoAgs/)
- - [Codeando Chihuahua](https://www.facebook.com/CodeandoChihuahua/)
- - [Codeando León](https://github.com/CodeandoLeon/)
 
 
 ## Inspiración
