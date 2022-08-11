@@ -1,26 +1,30 @@
-# Nuestro Código de Conducta #
-2017-06-28
+# CMX | CÓDIGO DE CONDUCTA
 
-La comunidad de Codeando México se **compromete** a que todas sus **actividades, eventos y foros digitales**:
+2022-07-11
 
-1. Sean espacios seguros, amigables y respetuosos para todas las personas que participen.
-2. Sean espacios donde todas las personas puedan expresar en plena libertad sus identidades.
-3. Reconozcan el valor de cada persona. Todas las ideas, habilidades y contribuciones son valiosas.
-4. No asuman que todas las personas tienen el mismo contexto e incentiven las preguntas. 
-5. Encuentren caminos para que cada persona pueda ser productiva con sus habilidades (técnicas o no) y con sus esfuerzos. 
-6. Incentiven a integrantes y participantes a escuchar tanto como hablan.
-7. Se esfuercen por construir herramientas tecnológicas abiertas y para el uso público. Serán prioritarias las actividades que se orienten al bien común y al uso público, más que a la ganancia personal.
-8. Den prioridad a dar acceso y a involucrar a aquellas personas que han sido sistemáticamente excluidas del proceso cívico.
-9. Trabajen para asegurar que la comunidad esté bien representada en los procesos de planeación, diseño e implementación de tecnología cívica. Esto incluye incentivar la participación de mujeres, minorías y grupos sistemáticamente desfavorecidos.
-10. Involucren activamente grupos comunitarios y aquellos con mayor experiencia en los procesos de toma de decisiones.
-11. Aseguren que las relaciones, interacciones y conversaciones entre miembros de la comunidad, funcionarios de gobiernos locales y aliados de la comunidad procuren el respeto, la participación y la productividad.
-12. Provean un ambiente libre de discriminación y acoso.
+Codeando es una comunidad de personas en todo el país que usan tecnología y datos para resolver problemas públicos, y construir gobiernos y sociedades más justas. Éste es un espacio para que puedas conocer nuevas personas, proponer proyectos, unirte al proyecto de alguien más, compartir lo que sabes, o aprender de las demás.  
 
-Cualquier integrante de esta comunidad se reserva el derecho de pedir a personas que vayan en contra de estas normas a no participar en actividades, eventos y foros digitales de la comunidad. Puedes **reportar** cualquier violación a este Código de Conducta enviando un correo a equipo@codeandomexico.org explicando el caso, dando el mayor contexto posible, para permitir al equipo tener una mejor y más clara respuesta.
+A diferencia de otro tipo de espacios, la tecnología cívica se hace de manera comunitaria y colaborativa, reuniendo personas de todos los contextos y habilidades. Aquí encontrarás personas desarrolladoras, dateras, abogadas, maperas, diseñadoras, activistas de todo tipo y personas de diferentes lugares y contextos. Dada la amplia diversidad de personas que hay, hemos construido estas reglas que creemos necesarias para asegurar que es una comunidad segura y amigable para quienes participamos. 
 
-Codeando México es una organización **apartidista** y no se le debe asociar con algún extremo ideológico o partido político.
+## Estas son las cosas que como comunidad valoramos:
 
-Codeando México construye herramientas de **software libre**, ningún contribuidor que haya participado en algún proyecto puede asumir la propiedad del resultado final. 
+1. Que todas las actividades, proyectos, eventos y foros, sean espacios seguros, amigables y respetuosos para todas las personas que participen en ellos. Nuestra comunidad es un lugar para hacer proyectos, conocer personas, divertirnos y aprender teniendo impacto social.
+2. Sabemos que la tecnología puede agrandar los sesgos que existen en una sociedad. Los proyectos que construyamos no deben ampliar las brechas digitales, reforzar estereotipos negativos sobre las personas, o aumentar los sesgos sobre características demográficas que puedan ser utilizados para la opresión. 
+3. Escuchar y conocer a las personas con la mente abierta. Al ser una comunidad diversa, de diferentes lugares del país y con personas de todo tipo de habilidades, encontrarás quien viene de un contexto totalmente distinto al tuyo. Aprovecha la oportunidad para preguntar, escuchar, y conocer diferentes perspectivas.
+4. El lema por excelencia de la tecnología cívica, es “Construir con, y no para”. Cada proyecto debe hacerse de la mano de personas inmersas en un tema. Esto significa buscar y escuchar a integrantes y participantes para co-construir, especialmente a aquellas personas que suelen ser excluidas del proceso. Construimos herramientas que respondan a necesidades reales. 
+5. Creemos en la tecnología y conocimiento libres y colaborativos para el bien común. Todos los proyectos que se realicen en la comunidad serán abiertos, y buscaremos que sean replicables para que personas en otros lugares del país o en otros países puedan reutilizarlos.
+6. Trabajar por una comunidad bien representada en los procesos de planeación, diseño e implementación de tecnología cívica. Esto incluye incentivar la participación de mujeres, minorías y grupos históricamente desfavorecidos.
 
-Este documento está basado en el código de conducta de la red [Code for All](https://codeforall.org/2017/04/01/code-of-conduct/).
+## Estas son las reglas de convivencia para la comunidad:
 
+1. La diversidad nos hace una comunidad (y una sociedad) fuerte y plural. Por ello no permitiremos que ninguna persona sea descriminada en razón de su sexo, identidad de género, orientación sexual, edad, raza o etnicidad, nacionalidad, religión, estatus socioeconómico, o cualquier otro atributo socio-demográfico.
+2. Queremos espacios para la discusión constructiva. Los problemas sociales son complejos; necesitamos la exploración y la creatividad para resolverlos, proponiendo y construyendo. Sin embargo, hay temas que no están a discusión, por ejemplo: la existencia de los feminicidios, la marginación por racialización, el clasismo sistémico, la existencia del machismo, el valor de la accesibilidad universal. Las discusiones que pretendan poner en tela de juicio la realidad de grupos históricamente oprimidos recibirán un mensaje de aviso, y de persistir, se tomarán medidas específicas con cada persona según el caso. 
+3. No toleraremos ningún tipo de acoso, sexual o de otro tipo u hostigamiento. Trabajamos con las personas afectadas para llegar a una solución, pero en los casos que se amerite, la persona agresora será expulsada de la comunidad, acompañada de un mensaje que informe del caso para conocimiento de todas.
+4. Todo proyecto realizado en la comunidad deberá publicarse bajo licencias de **software libre**. Salvo casos especiales, la licencia permitirá el uso comercial con requerimiento de atribución. Con esto aseguramos que todos podamos beneficiarnos del trabajo colectivo y que el software pueda reutilizarse y mejorarse de manera constante, manteniendo el crédito a quienes lo realizaron. Ninguna persona  u organización que haya participado en algún proyecto puede asumir la propiedad del resultado final.
+5. Nuestra comunidad es apartidista, pero sí somos una comunidad con un fuerte interés en lo político. Seguimos de cerca la política para entender cómo influye en nuestras vidas y comunidades y cómo mejorarla desde la sociedad civil y la tecnología cívica. Colaboramos con gobiernos de cualquier nivel que estén interesados en mejorar la relación entre la ciudadanía y el gobierno y mejorar la vida de las personas mediante el uso de tecnología, datos y diseño centrado en el usuario, pero no colaboramos con partidos porque hasta que no son electos, no nos representan.
+6. Las fechas en los conjuntos de datos deberán estar en formato ISO-8601 (i.e. 2022-08-11). Cualquier otro formato será... tolerado porque somos una comunidad plural, pero nos reservamos el derecho de limpiarlo a ese formato.
+
+## En caso de sufrir una situación de violencia o falta a este código:
+
+Para denunciar manda un correo a equipo@codeandomexico.org y describe lo sucedido. Acompañaremos e investigaremos tu reporte, y trabajaremos contigo para llegar a una solución. Se mantendrá la confidencialidad con respecto al proceso.
+Como comunidad, tomamos un enfoque anti punitivista y de justicia restaurativa. Sin embargo, en casos graves ir en contra de estas normas puede implicar la suspensión o expulsión de actividades, proyectos, eventos y foros digitales de la comunidad. 
