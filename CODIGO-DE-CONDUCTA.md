@@ -1,7 +1,5 @@
 # CMX | CÓDIGO DE CONDUCTA
 
-2022-07-11
-
 Codeando es una comunidad de personas en todo el país que usan tecnología y datos para resolver problemas públicos, y construir gobiernos y sociedades más justas. Éste es un espacio para que puedas conocer nuevas personas, proponer proyectos, unirte al proyecto de alguien más, compartir lo que sabes, o aprender de las demás.  
 
 A diferencia de otro tipo de espacios, la tecnología cívica se hace de manera comunitaria y colaborativa, reuniendo personas de todos los contextos y habilidades. Aquí encontrarás personas desarrolladoras, dateras, abogadas, maperas, diseñadoras, activistas de todo tipo y personas de diferentes lugares y contextos. Dada la amplia diversidad de personas que hay, hemos construido estas reglas que creemos necesarias para asegurar que es una comunidad segura y amigable para quienes participamos. 
